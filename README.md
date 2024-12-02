@@ -1,6 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=saugatadk&color=blue&style=flat-square)
 # 👋 Hi, I’m @saugatadk
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</p>  
 I'm a passionate developer with a knack for solving problems, writing clean code, and exploring new technologies.
+
 ---
 
 ## 💡**Facts About Me**  
@@ -9,6 +13,14 @@ I'm a passionate developer with a knack for solving problems, writing clean code
 - ⚡ Fun fact: Programmers leave their job when they don't get arrays
 
 ---
+
+## 🌟 **GitHub Highlights**  
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saugatadk&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saugatadk&layout=compact&theme=radical)
+
+---
+
 ## 🚀 **Tech Stack**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)

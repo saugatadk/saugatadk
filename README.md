@@ -30,15 +30,8 @@ I'm a passionate developer with a knack for solving problems, writing clean code
 
 ---
 ## 💬 **Get in Touch**  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/whoissaugat">
-    <img src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (formerly Twitter)">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/)  
+[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/whoissaugat)  
 
 ---
 ## 📈 **Contributions Graph**  
@@ -49,7 +42,6 @@ I'm a passionate developer with a knack for solving problems, writing clean code
 
 Thank you for stopping by! 💖 Happy coding!
 <!---
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
 saugatadk/saugatadk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

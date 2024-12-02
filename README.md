@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=saugatadk&color=blue&style=flat-square)
 - 👋 Hi, I’m @saugatadk
 - 👀 I’m interested in Machine Learning and Backend Development
 - 🌱 I’m currently learning Backend

@@ -29,11 +29,17 @@ I'm a passionate developer with a knack for solving problems, writing clean code
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-## 💬 **Get in Touch**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/)  
-[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/whoissaugat)  
+
+## 💬 **Get in Touch** 
+<a href="https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/whoissaugat" target="_blank">
+  <img src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter">
+</a>
 
 ---
+
 ## 📈 **Contributions Graph**  
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saugatadk&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

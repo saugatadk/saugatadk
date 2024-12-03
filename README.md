@@ -31,12 +31,8 @@ I'm a passionate developer with a knack for solving problems, writing clean code
 ---
 
 ## 💬 **Get in Touch** 
-<a href="https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://x.com/whoissaugat" target="_blank">
-  <img src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/)  
+[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/whoissaugat) 
 
 ---
 

@@ -6,8 +6,8 @@ I'm a passionate developer with a knack for solving problems, writing clean code
 ---
 
 ## 💡**Facts About Me**  
-- 👀 I’m interested in Machine Learning and Backend Development
-- 🌱 I’m currently learning Backend
+- 👀 I’m interested in Machine Learning and Full Stack Development
+- 🌱 I’m currently learning AI/ML
 - ⚡ Fun fact: Programmers leave their job when they don't get arrays
 
 ---

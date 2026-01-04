@@ -12,11 +12,6 @@ I'm a passionate developer with a knack for solving problems, writing clean code
 
 ---
 
-## 🌟 **GitHub Highlights**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saugatadk&layout=compact&theme=radical)
-
----
-
 ## 🚀 **Tech Stack**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)

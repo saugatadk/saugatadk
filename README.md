@@ -1,45 +1,61 @@
-![Profile views](https://komarev.com/ghpvc/?username=saugatadk&color=blue&style=flat-square)
-# 👋 Hi, I’m @saugatadk
-I'm a passionate developer with a knack for solving problems, writing clean code, and exploring new technologies.<br>
-[Visit my portfolio](https://saugat101.com.np)
+<h1 align="center">Hi there, I'm Saugat Adhikari 👋</h1>
+
+<p align="center">
+  <b>• Computer Engineering Student • AI/ML </b><br><br>
+  🌐 <a href="https://www.saugat101.com.np/"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  🐦 <a href="https://x.com/whoissaugat"><b>X (Twitter)</b></a> &nbsp;|&nbsp;
+  ✉️ <a href="mailto:adhikarisaugat55@gmail.com"><b>Email Me</b></a>
+</p>
 
 ---
 
-## 💡**Facts About Me**  
-- 👀 I’m interested in Machine Learning and Full Stack Development
-- 🌱 I’m currently learning AI/ML
-- ⚡ Fun fact: Programmers leave their job when they don't get arrays
+### 👨‍💻 About Me
+
+I build intelligent AI/ML applications. My work focuses on bridging deep learning, graph-based agentic workflows, and clean software architecture to solve real-world engineering problems.
+
+- 🔭 **Focus Areas:** Deep Learning, Computer Vision, Agentic AI & Full-Stack Web Development
+- 🛠️ **Core Stack:** Python, PyTorch, C/C++, React, and Node.js
+- ⚡ **Fun Fact:** Programmers leave their job when they don't get *arrays*.
 
 ---
 
-## 🚀 **Tech Stack**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-99CCFF?style=flat-square&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🚀 Tech Stack & Tools
+
+#### **Languages & Core**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+</p>
+
+#### **AI / Machine Learning**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas" />
+</p>
+
+#### **Web & Systems**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+</p>
 
 ---
 
-## 💬 **Get in Touch** 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/)  
-[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/whoissaugat) 
+### 📊 GitHub Analytics
 
----
+- 📦 **Repositories & Contributions:** [github.com/saugatadk](https://github.com/saugatadk?tab=repositories)
+- 🌐 **Live Portfolio & Projects:** [saugat101.com.np](https://www.saugat101.com.np/)
 
-## 📈 **Contributions Graph**  
-
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saugatadk&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-Thank you for stopping by! 💖 Happy coding!
-<!---
-saugatadk/saugatadk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saugatadk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>

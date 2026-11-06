@@ -4,7 +4,6 @@
   <b>• Computer Engineering Student • AI/ML Practitioner • Full-Stack Developer</b><br><br>
   🌐 <a href="https://www.saugat101.com.np/"><b>Portfolio</b></a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/saugat-adhikari-2b57b12a8/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
-  🐦 <a href="https://x.com/whoissaugat"><b>X (Twitter)</b></a> &nbsp;|&nbsp;
   ✉️ <a href="mailto:adhikarisaugat55@gmail.com"><b>adhikarisaugat55@gmail.com</b></a>
 </p>
 
